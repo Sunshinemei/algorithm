@@ -1,6 +1,8 @@
 package Letttcode;
 
 public class Number9 {
+    //leetcode的第九题
+    //题目链接  https://leetcode-cn.com/problems/palindrome-number/
     //判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。
     //这道题是用于判断一个int数是否为回文数
     public boolean isPalindrome(int x) {
