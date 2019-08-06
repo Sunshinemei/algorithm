@@ -1,4 +1,4 @@
-package Letttcode;
+package leetcode;
 
 public class Number9 {
     //leetcode的第九题
